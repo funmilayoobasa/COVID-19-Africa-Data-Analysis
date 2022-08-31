@@ -1,5 +1,5 @@
 # COVID-19-Africa-Data-Analysis
-In March 2020, the [WHO](https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020) declared COVID a pandemic. COVID cases rose, and the death toll increased. Tests were developed to quickly detect COVID cases. By 2020's end and early 2021, companies had developed vaccines to neutralise the virus. But that didn't stop the spread. It's 2022 and although the talk has fizzled, COVID is still out there. Since its inception, it has impacted more lives than we can imagine.
+In March 2020, the [WHO](https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020) declared COVID a pandemic. COVID cases rose, and the death toll increased. Tests were developed to quickly detect COVID cases. By 2020's end and early 2021, companies had developed vaccines to neutralise the virus. But that didn't stop the spread. t's 2022 and although the talk has fizzled, COVID is still out there. Since its inception, it has impacted more lives than we can imagine.
 
 I explored COVID-19 data (February 2020 - 24th June 2022) from [Our World in Data](https://github.com/owid/covid-19-data) (OWID). I focused on Africa and asked:
 
