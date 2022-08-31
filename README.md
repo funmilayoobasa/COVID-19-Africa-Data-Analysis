@@ -14,7 +14,7 @@ I explored COVID-19 data (February 2020 - 24th June 2022) from [Our World in Dat
 - Since South Africa has the most COVID tests it is likely that they will find more cases and track COVID-related deaths. Besides, there is a strong positive correlation (r = 0.94) between COVID cases and COVID tests and COVID deaths and COVID cases (r = 0.98). More tests lead to more cases, more cases lead to more deaths and vice versa.
 
 ## Extras
-- Full article: https://funmilayoobasa.notion.site/Covid-19-Africa-Data-Analysis-c793dcbe643544f0839d4ffb83dc4e32
-- Data: https://github.com/owid/covid-19-data
-- Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDgzMTBkNTMtNzRkNC00YTY3LTljOTItZTk5YzczMjQ3OTgyIiwidCI6IjM1NTc2MjY4LTNmZTUtNDBjOC05Zjk4LTViMTIwZGQzMmM5OSJ9
-- Queries: https://github.com/funmilayoobasa/COVID-19-Africa-Data-Analysis/blob/main/covid_19_africa_data_analysis_Funmilayo%20Obasa.sql
+- [Full article](https://funmilayoobasa.notion.site/Covid-19-Africa-Data-Analysis-c793dcbe643544f0839d4ffb83dc4e32)
+- [Data](https://github.com/owid/covid-19-data)
+- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgzMTBkNTMtNzRkNC00YTY3LTljOTItZTk5YzczMjQ3OTgyIiwidCI6IjM1NTc2MjY4LTNmZTUtNDBjOC05Zjk4LTViMTIwZGQzMmM5OSJ9)
+- [Queries](https://github.com/funmilayoobasa/COVID-19-Africa-Data-Analysis/blob/main/covid_19_africa_data_analysis_Funmilayo%20Obasa.sql)
